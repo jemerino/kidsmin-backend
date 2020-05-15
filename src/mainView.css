@@ -1,0 +1,17 @@
+.customCol{
+    background-image: linear-gradient(#1E486C, #26A250);
+    min-height: 100vh;
+    border: solid black 1em;
+    border-radius: 5em;
+}
+
+h1{
+    font-family: 'Bangers', cursive;
+    color: #f2ac34;
+    text-shadow: 3px 4px black;
+}
+
+.backgroundContainer{
+    background-image: linear-gradient(#fe7634, #f2ac34);
+    min-height: 100vh;
+}
